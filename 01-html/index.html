@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vicky — HTML Practice</title>
+  </head>
+  <body>
+    <header>
+      <h1>Vicky</h1>
+      <p>HTML practice page — learning web fundamentals.</p>
+      <nav>
+        <a href="#about">About</a> |
+        <a href="#projects">Projects</a> |
+        <a href="#skills">Skills</a> |
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <main>
+      <section id="about">
+        <h2>About</h2>
+        <p>
+          Hi, I'm practicing semantic HTML first: headings, sections, links,
+          lists, and a basic form. CSS and JavaScript come next in this repo.
+        </p>
+      </section>
+
+      <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+          <li>
+            <a href="https://github.com/Vicky-T-867/eng-data-streamliner"
+              >eng-data-streamliner</a
+            >
+            — Python scripts for cleaning sensor spreadsheets and simple reports
+          </li>
+          <li>
+            <a href="https://github.com/Vicky-T-867/react-native-mobile-scaffold-"
+              >react-native-mobile-scaffold</a
+            >
+            — Expo app with login, entry log, and settings
+          </li>
+          <li>
+            <a href="https://github.com/Vicky-T-867/web-practice">web-practice</a>
+            — this repo (HTML → CSS → JS)
+          </li>
+        </ul>
+      </section>
+
+      <section id="skills">
+        <h2>Skills I'm building</h2>
+        <ol>
+          <li>HTML structure</li>
+          <li>CSS layout and responsive design</li>
+          <li>JavaScript for basic page interactions</li>
+        </ol>
+      </section>
+
+      <section id="contact">
+        <h2>Contact</h2>
+        <p>Practice form (not connected to a backend yet):</p>
+        <form>
+          <p>
+            <label for="name">Name</label><br />
+            <input id="name" name="name" type="text" />
+          </p>
+          <p>
+            <label for="email">Email</label><br />
+            <input id="email" name="email" type="email" />
+          </p>
+          <p>
+            <label for="message">Message</label><br />
+            <textarea id="message" name="message" rows="4" cols="40"></textarea>
+          </p>
+          <p>
+            <button type="submit">Send</button>
+          </p>
+        </form>
+      </section>
+    </main>
+
+    <footer>
+      <p>HTML practice · part of my web-practice repo on GitHub</p>
+    </footer>
+  </body>
+</html>
