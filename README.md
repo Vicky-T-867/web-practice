@@ -12,7 +12,7 @@ This is learning work, not a client or production project.
 
 https://vicky-t-867.github.io/web-practice/01-html/
 
-## Folder plan (this repo)
+## Folder plan
 
 | Folder | Focus | Status |
 |--------|--------|--------|
@@ -28,21 +28,8 @@ open 01-html/index.html
 
 Or drag `01-html/index.html` into Chrome / Safari / Firefox.
 
-## What I'm doing next here
+## What I'm doing next
 
 - Finish a clear HTML page (sections, links, a simple form)
 - Add CSS in `02-css/` (Flexbox / Grid, mobile layout)
 - Add a little JavaScript in `03-js/` (one or two real interactions)
-
-## Wider learning plan
-
-This repo is only for HTML → CSS → JS. Outside of it I'm also building:
-
-| Area | Why | Where |
-|------|-----|--------|
-| Python | Data cleaning / small automation | [`eng-data-streamliner`](https://github.com/Vicky-T-867/eng-data-streamliner) |
-| React Native (Expo) | Mobile UI practice | [`react-native-mobile-scaffold-`](https://github.com/Vicky-T-867/react-native-mobile-scaffold-) |
-| SQL (basics) | Common in job screens — queries, joins, filters | Planned (separate notes / small examples later) |
-| React (web) *or* more Expo | After JS fundamentals feel solid | Later — one framework at a time |
-
-I'll add other topics later when they fit a project or job requirement.
