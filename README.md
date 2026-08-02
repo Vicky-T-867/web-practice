@@ -30,6 +30,6 @@ Or drag `01-html/index.html` into Chrome / Safari / Firefox.
 
 ## What I'm doing next
 
-- Finish a clear HTML page (sections, links, a simple form)
+- Build the Northside Study Cafe HTML page in `01-html/`
 - Add CSS in `02-css/` (Flexbox / Grid, mobile layout)
 - Add a little JavaScript in `03-js/` (one or two real interactions)

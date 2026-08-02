@@ -1,13 +1,20 @@
 # 01 — HTML
 
-Goal: build a readable page using only HTML structure (no CSS/JS yet).
+Build a fictional landing page for **Northside Study Cafe**.
 
-## What's in `index.html`
+Content is made up on purpose (no personal photo / private details).
 
-- Semantic sections: `header`, `nav`, `main`, `section`, `footer`
-- Links to my other GitHub projects
-- Lists for skills
-- A basic contact form
+## Sections to include
+
+1. Header — name, tagline, nav  
+2. Intro / hero — headline + short sentence  
+3. Menu / services — list  
+4. Hours — table (Day / Open / Close)  
+5. Visit — fake address + note  
+6. Book a table — form (name, email, date, party size, notes)  
+7. Footer — short line + optional link to this repo  
+
+Under the form, note that it’s a demo and not connected.
 
 ## Open it
 
@@ -15,11 +22,6 @@ Goal: build a readable page using only HTML structure (no CSS/JS yet).
 open index.html
 ```
 
-## Practice ideas before moving to CSS
+## When you're done
 
-- [ ] Update the About text to sound like you
-- [ ] Add a real email / LinkedIn link in Contact
-- [ ] Add one more section (e.g. Education or Interests)
-- [ ] Check the page in a phone-sized browser window (layout will be plain — that's expected)
-
-Next folder: `02-css/`
+Move on to `02-css/` and style this same page.
