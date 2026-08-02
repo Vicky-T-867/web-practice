@@ -45,4 +45,4 @@ This repo is only for HTML → CSS → JS. Outside of it I'm also building:
 | SQL (basics) | Common in job screens — queries, joins, filters | Planned (separate notes / small examples later) |
 | React (web) *or* more Expo | After JS fundamentals feel solid | Later — one framework at a time |
 
-Things like XML I'll pick up only if a role needs them — not a focus yet.
+I'll add other topics later when they fit a project or job requirement.
